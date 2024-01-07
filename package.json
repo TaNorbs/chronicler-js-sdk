@@ -1,0 +1,26 @@
+{
+	"name": "chronicler-web-sdk",
+	"version": "0.1.0",
+	"description": "A logging library for the web, mainly for a Chronicler backend, but could be used for any logging backend as well. Using Typescript to help usage.",
+	"main": "index.js",
+	"scripts": {
+		"test": "npm run test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TaNorbs/chronicler-web-sdk.git"
+	},
+	"keywords": [
+		"web",
+		"frontend",
+		"logging",
+		"typescript",
+		"chronicler"
+	],
+	"author": "TaNorbs",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/TaNorbs/chronicler-web-sdk/issues"
+	},
+	"homepage": "https://github.com/TaNorbs/chronicler-web-sdk#readme"
+}
