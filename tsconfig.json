@@ -1,8 +1,8 @@
 {
 	"exclude": ["node_modules","build"],
   "compilerOptions": {
-		"lib": ["ESNext"],
-    "target": "es2016",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+		"lib": ["ESNext", "dom"],
+    "target": "esnext",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
     "module": "esnext",                                /* Specify what module code is generated. */
 		"outDir": "build",
 		"moduleDetection": "force",

@@ -1,2 +1,2 @@
-export { HelloThere } from "./src/tstest.ts"
+export { Chronicler } from "./src/chronicler.ts"
 
